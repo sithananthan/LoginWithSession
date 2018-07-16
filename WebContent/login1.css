@@ -1,0 +1,15 @@
+#ss {
+	background-color: green;
+	text-align: center;
+	text-decoration: blink;
+	border: 5px;
+	border-radius: 2px;
+}
+
+#ww {
+	background: yellow;
+}
+
+#ww:hover {
+	cursor: none;
+}
